@@ -1,0 +1,7 @@
+#ifndef INCLUDED_EXPRESSIONOPERATORS_FWD_H
+#define INCLUDED_EXPRESSIONOPERATORS_FWD_H
+
+template<typename T>
+struct ExpressionOperators;
+
+#endif INCLUDED_EXPRESSIONOPERATORS_FWD_H
